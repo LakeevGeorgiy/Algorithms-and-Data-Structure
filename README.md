@@ -11,3 +11,8 @@
 ## Деревья
 * [AVL](./Trees/AVL%20Tree.cpp)
 * [Дерево отрезков](./Trees/Segment%20Tree.cpp)
+
+## Строки
+* [Z функция](./Strings/Z-function.cpp)
+* [Префикс функция](./Strings/Prefix-function.cpp)
+* [Бор](./Strings/Trie.cpp)
