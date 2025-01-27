@@ -16,3 +16,4 @@
 * [Z функция](./Strings/Z-function.cpp)
 * [Префикс функция](./Strings/Prefix-function.cpp)
 * [Бор](./Strings/Trie.cpp)
+* [Суффиксный массив](./Strings/Suffix-array.cpp)
